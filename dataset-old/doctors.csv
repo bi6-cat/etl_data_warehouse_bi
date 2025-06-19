@@ -1,0 +1,201 @@
+doctor_id,name,last_name,specialization,phone,email
+1,Khoa Lê,Mai,Tổng quát,+84 87 5538717,buijohn@example.net
+2,Quý cô Thảo Mai,Lê,Tim mạch,+84-36-892868,buijohn@example.org
+3,Quý ông Huy Bùi,Lê,Cơ xương khớp,+84 86 2094839,nguyenjane@example.org
+4,Hưng Phú Vũ,Hoàng,Tổng quát,(05) 9390 0549,buijane@example.com
+5,Chị Phương Lê,Nguyễn,Tổng quát,(02)773-8774,johnbui@example.com
+6,Phương Mai,Bùi,Nhi khoa,00 8461675,duongjohn@example.net
+7,Bảo Hoàng,Đặng,Nội tiết,09 4440 9528,jdang@example.net
+8,Anh Anh Dương,Mai,Tổng quát,+84-22-691185,jane70@example.org
+9,Hạnh Thị Dương,Nguyễn,Tiết niệu,01 5724 1958,xhoang@example.com
+10,Ông Nhiên Phạm,Phạm,Tim mạch,+84 19 1430844,tranjane@example.org
+11,An Bùi,Bùi,Tổng quát,+84-40-423092,john24@example.org
+12,Quang Vũ,Lê,Mắt,+84 72 7488193,janedang@example.com
+13,Bà Khoa Dương,Mai,Tim mạch,04 0093 6417,jane65@example.org
+14,Quý cô Hà Bùi,Trần,Cơ xương khớp,+84-08-992032,john16@example.net
+15,Thảo Lê,Đặng,Nội tiết,(00)054-6047,phamjohn@example.net
+16,Chị Chi Lê,Đặng,Nội tiết,+84 82 0899416,lejane@example.org
+17,Quý cô Nhật Phạm,Phạm,Ung bướu,(04) 4989 9029,mle@example.org
+18,Trọng Vũ,Dương,Tổng quát,(07) 5359 7737,ohoang@example.net
+19,Bảo Lê,Hoàng,Cơ xương khớp,+84-98-550 2421,duongjohn@example.net
+20,Quý ông Quang Lê,Trần,Tổng quát,+84-79-327026,janemai@example.net
+21,An Hoàng Phạm,Dương,Da liễu,+84-02-584091,kle@example.org
+22,Hương Bùi,Trần,Tổng quát,05 3489 2135,vujane@example.org
+23,Hoàng Mai,Mai,Tổng quát,02 1430 5337,duongjohn@example.org
+24,Cô Vi Dương,Phạm,Mắt,(06)758-8510,ple@example.net
+25,Bà Yến Đặng,Lê,Nội tiết,+84-45-108050,janehoang@example.org
+26,Quý cô Lâm Mai,Dương,Tim mạch,09 2558082,hoangjohn@example.com
+27,Quý cô Thành Nguyễn,Phạm,Tổng quát,+84-84-012 3407,janepham@example.com
+28,Quý cô Thảo Nguyễn,Mai,Tổng quát,04 0782 8406,hpham@example.org
+29,Bác Hưng Bùi,Đặng,Tổng quát,(09) 9858 7005,johnduong@example.net
+30,Bà Chi Trần,Trần,Tổng quát,04 3039582,johntran@example.net
+31,An Đức Phạm,Dương,Nhi khoa,+84-97-612 8151,johnmai@example.com
+32,Bảo Vũ,Phạm,Nội tiết,(06) 4795 8757,jane64@example.com
+33,Bác Tú Phạm,Nguyễn,Cơ xương khớp,05 2525 9571,jane25@example.net
+34,Bà Hải Đặng,Đặng,Ung bướu,(09)056-7070,johnvu@example.org
+35,Trung Văn Phạm,Mai,Tổng quát,(06) 0002 7129,john30@example.net
+36,Hạnh Bùi,Nguyễn,Tim mạch,00 2025241,lejohn@example.net
+37,Cô Hồng Đặng,Phạm,Da liễu,(00) 3839 7286,phamjane@example.net
+38,Hạnh Vũ,Dương,Tổng quát,+84 64 3114271,ndang@example.com
+39,Bà Ngọc Dương,Mai,Tổng quát,+84 19 8976866,vbui@example.org
+40,Bác Quang Vũ,Vũ,Sản phụ khoa,08 4360 5804,vujane@example.net
+41,Quý cô Ánh Nguyễn,Mai,Tai Mũi Họng,(09)718-6142,janedang@example.com
+42,Kim Trí Mai,Dương,Tổng quát,(04)322-7267,john83@example.com
+43,Bác Nhiên Mai,Nguyễn,Tổng quát,09 3761 7419,johnhoang@example.net
+44,Khoa Trần,Hoàng,Hô hấp,04 1839 7047,johndang@example.com
+45,Trọng Đặng,Lê,Tâm thần,02 5343203,john15@example.org
+46,Phương Bùi,Nguyễn,Nhi khoa,(03)824-8958,jane60@example.net
+47,Chị Chi Dương,Nguyễn,Tai Mũi Họng,+84-49-456 2719,itran@example.org
+48,Hưng Xuân Phạm,Phạm,Cơ xương khớp,(03) 2628 5391,fhoang@example.org
+49,Nhật Mai Dương,Đặng,Tổng quát,(02) 9118 3605,ltran@example.org
+50,Hoàng Hoàng,Dương,Tâm thần,+84-83-054 5444,maijane@example.com
+51,Khoa Tấn Dương,Trần,Chấn thương chỉnh hình,+84-70-808 2370,janevu@example.com
+52,Cô Vi Vũ,Mai,Nội tiết,+84-57-617972,hduong@example.org
+53,Ông Huy Đặng,Nguyễn,Tổng quát,+84-51-147387,jane28@example.net
+54,Quý ông Vũ Phạm,Lê,Tai Mũi Họng,(05)673-6416,hoangjohn@example.org
+55,Ông Trọng Bùi,Vũ,Thần kinh,(08) 4705 5683,janebui@example.net
+56,Nhiên Đặng,Trần,Hô hấp,+84-65-777634,duongjohn@example.net
+57,Hoàng Trí Hoàng,Mai,Tổng quát,02 1851081,jane38@example.org
+58,Ông Trọng Phạm,Hoàng,Tổng quát,+84-19-074 6015,duongjohn@example.org
+59,Quý ông Nhiên Dương,Trần,Hô hấp,07 1709683,john23@example.org
+60,Hà Tấn Trần,Lê,Tiêu hóa,+84-70-751 0652,vtran@example.org
+61,Hoàng Mai,Dương,Sản phụ khoa,(06)188-2833,ile@example.org
+62,Phương Tấn Phạm,Vũ,Tổng quát,(06) 9311 2487,johnle@example.org
+63,Hạnh Bảo Lê,Lê,Chấn thương chỉnh hình,+84-18-092 3265,ppham@example.net
+64,Chị Vân Trần,Đặng,Tâm thần,04 6050111,jane84@example.org
+65,Hải Đặng,Đặng,Tổng quát,(03) 6615 8592,janetran@example.net
+66,Anh Nguyễn,Lê,Tổng quát,00 4922 0980,johnnguyen@example.net
+67,Quý ông Quang Dương,Bùi,Ung bướu,+84-15-657458,nguyenjohn@example.org
+68,Anh Trọng Đặng,Đặng,Tổng quát,+84-05-453133,janebui@example.org
+69,Bà Thảo Mai,Đặng,Tổng quát,+84 12 2240999,wle@example.com
+70,Trung Mai,Dương,Tổng quát,09 7078928,john70@example.net
+71,Thành Xuân Trần,Vũ,Da liễu,08 8395935,johnduong@example.net
+72,An Thế Hoàng,Dương,Cơ xương khớp,(09)574-6023,nguyenjane@example.net
+73,Khoa Mai Bảo Hoàng,Bùi,Mắt,(03) 1270 7397,jane09@example.org
+74,Bảo Đức Đặng,Hoàng,Ung bướu,+84-29-758085,nhoang@example.org
+75,Bác Minh Trần,Hoàng,Tiêu hóa,+84-64-857295,johnduong@example.com
+76,Quý cô Duyên Lê,Trần,Cơ xương khớp,+84-33-220 3734,jane25@example.org
+77,Bà Thảo Phạm,Trần,Tai Mũi Họng,+84-09-251 2423,buijane@example.net
+78,Bác Nhiên Vũ,Phạm,Thần kinh,+84 86 5922183,johnbui@example.org
+79,Hà Đức Đặng,Nguyễn,Hô hấp,+84 18 8212129,inguyen@example.com
+80,Nhiên Hoàng,Dương,Chấn thương chỉnh hình,(03) 2349 0726,john61@example.org
+81,Kim Vũ,Phạm,Miễn dịch,+84-78-323 2818,johnnguyen@example.net
+82,Trọng Hữu Nguyễn,Nguyễn,Sản phụ khoa,+84 88 4300314,johnle@example.org
+83,Hải Đức Trần,Dương,Tổng quát,(09) 4162 2158,john99@example.com
+84,Ngọc Hoàng,Mai,Tổng quát,+84 04 1949401,tranjohn@example.com
+85,Lâm Hữu Phạm,Dương,Mắt,(05) 0556 7554,johnnguyen@example.com
+86,Xuân Đặng,Bùi,Nội tiết,(00)663-1043,john38@example.org
+87,An Quang Bùi,Trần,Sản phụ khoa,+84-97-764 6260,jane38@example.net
+88,Khoa Mai Bảo Vũ,Phạm,Tâm thần,(05)319-5228,janehoang@example.net
+89,Thành Quang Vũ,Đặng,Nội tiết,01 8494823,dangjohn@example.com
+90,Quý cô Nhật Lê,Hoàng,Sản phụ khoa,07 9392102,janebui@example.net
+91,Huy Bùi,Dương,Nhi khoa,(01)692-5041,janebui@example.org
+92,Hồng Nguyễn,Hoàng,Hô hấp,+84-40-208523,johndang@example.org
+93,Thành Mai Bảo Trần,Vũ,Tiêu hóa,+84 29 7412939,fduong@example.com
+94,Bác Tú Lê,Nguyễn,Sản phụ khoa,(08) 4309 5703,choang@example.org
+95,Bảo Mai,Phạm,Tổng quát,06 6513 4823,tnguyen@example.org
+96,Ông Quang Mai,Hoàng,Ung bướu,+84 94 5777986,ktran@example.org
+97,Châu Hoàng,Phạm,Sản phụ khoa,02 2620203,johnduong@example.org
+98,Quý ông Hoàng Đặng,Lê,Ung bướu,+84 77 2711382,mdang@example.net
+99,Bác Quang Bùi,Dương,Da liễu,+84-44-570232,johntran@example.org
+100,Chị Hạnh Đặng,Hoàng,Tiêu hóa,(09)550-4402,johnpham@example.com
+101,Chị An Vũ,Phạm,Tổng quát,04 5905 5763,bhoang@example.net
+102,Chị Nhật Bùi,Trần,Hô hấp,+84-85-886020,vduong@example.net
+103,Châu Dương,Trần,Tổng quát,05 6057 6424,omai@example.org
+104,Phúc Đặng,Nguyễn,Tổng quát,(03)322-1532,duongjohn@example.com
+105,Tú Vũ,Bùi,Tổng quát,05 5882740,wvu@example.com
+106,Phúc Bùi,Nguyễn,Tổng quát,(05) 1792 3841,johnvu@example.org
+107,Trung Nguyễn,Phạm,Sản phụ khoa,+84-05-175 5815,johnle@example.org
+108,Bà Bảo Nguyễn,Đặng,Tổng quát,(04)062-5460,johnduong@example.net
+109,Ông Huy Mai,Mai,Tiêu hóa,02 3631 0408,maijane@example.com
+110,Hạnh Vũ,Bùi,Tổng quát,(07)504-7384,nvu@example.net
+111,Bảo Vũ,Dương,Mắt,(02)305-8693,johnle@example.com
+112,Nam Trần,Dương,Tổng quát,+84-99-725521,tle@example.net
+113,Minh Bùi,Trần,Cơ xương khớp,04 7722 5812,buijohn@example.net
+114,Hoàng Phú Hoàng,Vũ,Tiết niệu,+84 33 2565966,duongjane@example.com
+115,Bà Yến Nguyễn,Phạm,Tiết niệu,(03)124-3539,johnpham@example.com
+116,Thành Nguyễn,Hoàng,Ung bướu,+84-36-821 8340,bvu@example.net
+117,Bảo Đức Vũ,Đặng,Tổng quát,06 4267926,gpham@example.org
+118,Cô Phương Vũ,Đặng,Sản phụ khoa,(09) 9265 2402,john98@example.org
+119,Nhật Bảo Vũ,Nguyễn,Nhi khoa,03 8332 4761,john00@example.net
+120,Cô Hải Bùi,Trần,Sản phụ khoa,05 4065420,janenguyen@example.net
+121,Dũng Hoàng Hoàng,Bùi,Tổng quát,+84-04-916106,maijohn@example.org
+122,Nhật Phạm,Trần,Thần kinh,+84 29 1056557,kpham@example.net
+123,Hà Bảo Dương,Dương,Miễn dịch,04 8367 9533,tnguyen@example.org
+124,Quý ông Hưng Vũ,Phạm,Thần kinh,(07)565-5103,john16@example.org
+125,Chị An Phạm,Phạm,Nhi khoa,+84 92 1101828,johnduong@example.com
+126,Thảo Phạm,Hoàng,Tổng quát,+84-02-882769,hduong@example.org
+127,Cô Bảo Nguyễn,Trần,Tiết niệu,(03)352-9922,buijane@example.org
+128,Hạnh Bùi,Dương,Chấn thương chỉnh hình,+84-93-649318,janetran@example.org
+129,Tùng Văn Đặng,Hoàng,Tim mạch,+84-41-248 6916,jane07@example.org
+130,Kim Tấn Mai,Hoàng,Tổng quát,+84-12-295 6228,jane88@example.net
+131,Quý cô Khoa Vũ,Nguyễn,Hô hấp,(00) 5428 0967,qtran@example.net
+132,Bà Hải Lê,Dương,Nội tiết,05 9615 2734,jane20@example.org
+133,Quý ông Nam Vũ,Nguyễn,Tổng quát,(09) 4829 0945,wnguyen@example.com
+134,Cô Bảo Nguyễn,Trần,Nhi khoa,+84-72-659294,janebui@example.net
+135,Hoàng Mai Bảo Mai,Bùi,Mắt,(09)768-4282,janepham@example.net
+136,Nhật Văn Bùi,Nguyễn,Nhi khoa,+84-30-186 4924,lejohn@example.org
+137,Chị Lan Hoàng,Trần,Tổng quát,(04) 9844 9759,jane04@example.com
+138,Thành Đặng,Vũ,Da liễu,(02)723-3080,mbui@example.com
+139,Phương Hữu Nguyễn,Dương,Tiết niệu,+84-04-288906,john43@example.org
+140,Khoa Nguyễn,Lê,Nội tiết,+84-21-687 8016,jane24@example.com
+141,Trung Mai,Phạm,Sản phụ khoa,+84-36-376449,jane12@example.com
+142,Chi Mai,Nguyễn,Tiết niệu,+84 32 4930528,dnguyen@example.com
+143,Hải Hoàng Dương,Phạm,Mắt,+84-22-931 4258,john64@example.net
+144,Hạnh Tấn Dương,Hoàng,Tổng quát,03 3294 9970,ypham@example.net
+145,Vân Bùi,Đặng,Da liễu,00 2626 4554,john19@example.com
+146,Chị Hà Bùi,Nguyễn,Tổng quát,(08)142-3259,jdang@example.net
+147,Hải Nguyễn,Lê,Tim mạch,09 7434169,nguyenjohn@example.com
+148,Mai Mai,Nguyễn,Da liễu,04 6285684,duongjohn@example.net
+149,Khoa Quang Hoàng,Bùi,Thần kinh,+84 81 1590477,phamjohn@example.net
+150,Bà Lâm Lê,Hoàng,Nhi khoa,+84-99-542 7473,gtran@example.com
+151,Bác Nhiên Vũ,Nguyễn,Nhi khoa,+84 71 9476463,lejohn@example.net
+152,Dương Đặng,Phạm,Tổng quát,+84-35-999 3186,buijohn@example.com
+153,Phương Mai,Nguyễn,Tim mạch,+84 25 6090879,jane06@example.org
+154,Chị Hải Vũ,Mai,Tổng quát,(01)458-3530,janemai@example.net
+155,Vân Lê,Mai,Tiết niệu,09 6442 0611,jane81@example.com
+156,Vân Mai,Bùi,Tiêu hóa,+84 08 6544077,buijohn@example.org
+157,Anh Tùng Nguyễn,Phạm,Tổng quát,+84-76-114 6002,johndang@example.org
+158,Quý ông Khoa Vũ,Vũ,Tổng quát,02 3965703,dvu@example.org
+159,Thảo Đặng,Lê,Tổng quát,(06)784-2451,janemai@example.org
+160,Khoa Mai,Mai,Tổng quát,+84-55-600 0303,phamjane@example.com
+161,Cô Vi Trần,Nguyễn,Tai Mũi Họng,+84 54 7493621,johnhoang@example.net
+162,Hải Trần,Phạm,Nội tiết,(05)763-7321,fnguyen@example.org
+163,Hoàng Trần,Nguyễn,Tiêu hóa,(01) 5816 3466,anguyen@example.com
+164,Chị Vân Bùi,Hoàng,Sản phụ khoa,(03)066-8220,janehoang@example.org
+165,Bác Hưng Hoàng,Hoàng,Hô hấp,(04) 3342 0332,tranjohn@example.net
+166,Khoa Thị Đặng,Lê,Nhi khoa,05 9283 3498,duongjohn@example.net
+167,Kim Lê,Nguyễn,Tim mạch,(03) 8081 5523,john57@example.com
+168,Bà Kim Nguyễn,Trần,Nhi khoa,(06)762-6073,hoangjohn@example.com
+169,Quý cô Khoa Nguyễn,Dương,Thần kinh,(02)466-8553,jane55@example.net
+170,Trọng Văn Phạm,Lê,Ung bướu,(05) 2972 9009,jane94@example.org
+171,Trung Xuân Phạm,Mai,Tiết niệu,+84-03-003554,john11@example.net
+172,Cô Mai Dương,Trần,Cơ xương khớp,+84-56-339042,janebui@example.org
+173,Ông Châu Bùi,Phạm,Tổng quát,+84 92 6116598,johndang@example.com
+174,Bác Vũ Dương,Nguyễn,Tổng quát,+84-12-566 0118,jane29@example.org
+175,Phương Văn Bùi,Phạm,Tổng quát,00 1647 0941,janeduong@example.com
+176,Anh Dương,Hoàng,Tim mạch,+84-91-042983,johnvu@example.org
+177,Anh Minh Vũ,Mai,Tổng quát,+84-17-515 3315,maijane@example.com
+178,Chị Kim Vũ,Phạm,Tổng quát,02 5578089,hoangjohn@example.net
+179,Tú Trí Đặng,Trần,Da liễu,01 4100034,john72@example.net
+180,Chị An Phạm,Đặng,Tâm thần,(05)674-4508,jane43@example.org
+181,Nam Bảo Dương,Vũ,Sản phụ khoa,(07)072-9585,mle@example.org
+182,Chị Duyên Đặng,Phạm,Chấn thương chỉnh hình,+84-63-767 9388,johnhoang@example.net
+183,Khoa Dương,Phạm,Tâm thần,(06) 8029 0575,jane28@example.org
+184,Hoàng Lê,Lê,Sản phụ khoa,+84-89-311890,maijohn@example.org
+185,Nhiên Văn Bùi,Mai,Da liễu,+84-68-038 7638,janedang@example.com
+186,Phúc Mai,Bùi,Nội tiết,(05) 2343 1441,john83@example.org
+187,Quý cô Chi Vũ,Dương,Tai Mũi Họng,+84-07-914268,johntran@example.org
+188,Huy Hoàng Hoàng,Bùi,Tổng quát,(00)248-7361,johnle@example.org
+189,Quý ông Châu Lê,Hoàng,Nhi khoa,04 6776065,duongjohn@example.com
+190,Linh Hoàng,Dương,Sản phụ khoa,(09) 2099 8815,johnbui@example.com
+191,Dương Trần,Mai,Tổng quát,(01) 1095 9504,john65@example.com
+192,Phúc Hoàng Phạm,Lê,Da liễu,07 1311 9102,johndang@example.net
+193,Lan Đặng,Trần,Cơ xương khớp,06 8995532,fdang@example.org
+194,Ông Bảo Bùi,Lê,Chấn thương chỉnh hình,06 3864 3831,lejohn@example.org
+195,Ông Huy Lê,Mai,Tai Mũi Họng,(03)252-0103,johnpham@example.org
+196,Nhiên Bùi,Vũ,Thần kinh,08 5562815,janemai@example.net
+197,Quang Bùi,Trần,Tổng quát,(01) 6183 2930,janemai@example.org
+198,Phúc Phạm,Vũ,Nội tiết,03 9244 6836,johnduong@example.net
+199,Trọng Đặng,Dương,Tiêu hóa,+84 87 7192139,janedang@example.org
+200,Ông Phúc Hoàng,Nguyễn,Miễn dịch,08 4534 5008,johnbui@example.net
